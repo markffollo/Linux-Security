@@ -1,4 +1,4 @@
-#iptables for a bastion host in a DMZ with IP 172.16.1.5 
+#iptables script for a bastion samba server in a DMZ with IP 172.16.1.5 
 
 
 #!/bin/bash
